@@ -1,2 +1,2 @@
 # Cryptocurrencies
-Employing unsupervised machine learning to support a hypothetical cryptocurrency investment pitch
+Employing unsupervised machine learning to group various cryptocurrencies
